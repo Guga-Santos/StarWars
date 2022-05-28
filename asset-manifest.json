@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/StarWars/static/css/main.15215bb1.chunk.css",
+    "main.js": "/StarWars/static/js/main.e0ee0ffd.chunk.js",
+    "main.js.map": "/StarWars/static/js/main.e0ee0ffd.chunk.js.map",
+    "runtime-main.js": "/StarWars/static/js/runtime-main.0e107cbd.js",
+    "runtime-main.js.map": "/StarWars/static/js/runtime-main.0e107cbd.js.map",
+    "static/js/2.6efc746b.chunk.js": "/StarWars/static/js/2.6efc746b.chunk.js",
+    "static/js/2.6efc746b.chunk.js.map": "/StarWars/static/js/2.6efc746b.chunk.js.map",
+    "index.html": "/StarWars/index.html",
+    "precache-manifest.056e3cea34699c1bc1fb7556fa3f5c78.js": "/StarWars/precache-manifest.056e3cea34699c1bc1fb7556fa3f5c78.js",
+    "service-worker.js": "/StarWars/service-worker.js",
+    "static/css/main.15215bb1.chunk.css.map": "/StarWars/static/css/main.15215bb1.chunk.css.map",
+    "static/js/2.6efc746b.chunk.js.LICENSE.txt": "/StarWars/static/js/2.6efc746b.chunk.js.LICENSE.txt",
+    "static/media/Alderaan.webp": "/StarWars/static/media/Alderaan.2835f42e.webp",
+    "static/media/Bespin.webp": "/StarWars/static/media/Bespin.b59bec0e.webp",
+    "static/media/Coruscant.webp": "/StarWars/static/media/Coruscant.bcfb3bfc.webp",
+    "static/media/Dagobah.webp": "/StarWars/static/media/Dagobah.90c06e8a.webp",
+    "static/media/Endor.webp": "/StarWars/static/media/Endor.7e844afd.webp",
+    "static/media/App2.css": "/StarWars/static/media/FUNDO.eaea61b6.webp",
+    "static/media/Hoth.webp": "/StarWars/static/media/Hoth.374ea5f4.webp",
+    "static/media/Kamino.webp": "/StarWars/static/media/Kamino.73d2c388.webp",
+    "static/media/Naboo.webp": "/StarWars/static/media/Naboo.1060cc67.webp",
+    "static/media/Starjedi.ttf": "/StarWars/static/media/Starjedi.af7c07fa.ttf",
+    "static/media/Tatooine.webp": "/StarWars/static/media/Tatooine.f4942ec2.webp",
+    "static/media/Yavin4.webp": "/StarWars/static/media/Yavin4.611e1696.webp",
+    "static/media/starWars.png": "/StarWars/static/media/starWars.ce5e1211.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e107cbd.js",
+    "static/js/2.6efc746b.chunk.js",
+    "static/css/main.15215bb1.chunk.css",
+    "static/js/main.e0ee0ffd.chunk.js"
+  ]
+}
